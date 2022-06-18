@@ -1,0 +1,35 @@
+ main{
+   background-color: white;
+   display:flex; 
+   justify-content: center;
+   flex-direction:row;
+}
+
+ div{
+  background-color: blue;
+  padding: 30px;
+  margin-top: 80px;
+
+  width: 150px;
+  height: 350px;
+  }
+
+  .orange-box{
+    background-color:hsl(31, 77%, 52%);
+    font-size: 15px;
+    font-family:"lexend-deca";
+    text-decoration-color:hsla(0, 0%, 100%, 0.75) ;
+  }
+
+  .blue-box{
+    background-color:hsl(184, 100%, 22%);
+    font-size: 15px;
+  }
+  
+  .green-box{
+    background-color: hsl(179, 100%, 13%);
+    font-size: 15px;
+  }
+  .button{
+    margin-top: 150px;
+  }
